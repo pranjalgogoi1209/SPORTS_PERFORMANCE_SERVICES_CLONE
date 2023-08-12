@@ -1,6 +1,5 @@
 # SPORTS_PERFORMANCE_SERVICES_CLONE
-SPORTS PERFORMANCE SERVICES is a static website.
+<p>SPORTS PERFORMANCE SERVICES is a static website.</p>
 
-It is a clone website of SPORTS PERFORMANCE SERVICE
-<br/>
-Technology : HTML, CSS
+<p>It is a clone website of SPORTS PERFORMANCE SERVICE</p>
+<p>Technology : HTML, CSS</p>
